@@ -1,0 +1,527 @@
+[
+    {
+        "kinopoiskId": 962472,
+        "imdbId": "tt5396486",
+        "nameRu": "Hot Wheels. За гранью воображения",
+        "nameEn": null,
+        "nameOriginal": "Team Hot Wheels: The Skills to Thrill",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "детский"
+            }
+        ],
+        "ratingKinopoisk": 9.3,
+        "ratingImdb": 6.8,
+        "year": 2015,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/962472.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/962472.jpg"
+    },
+    {
+        "kinopoiskId": 952236,
+        "imdbId": "tt5223716",
+        "nameRu": "Hot Wheels. Мегатрасса",
+        "nameEn": null,
+        "nameOriginal": "Team Hot Wheels: Build the Epic Race",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "детский"
+            }
+        ],
+        "ratingKinopoisk": 9.3,
+        "ratingImdb": 6.3,
+        "year": 2015,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/952236.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/952236.jpg"
+    },
+    {
+        "kinopoiskId": 1003587,
+        "imdbId": "tt6146460",
+        "nameRu": "Гамильтон",
+        "nameEn": null,
+        "nameOriginal": "Hamilton's America",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "биография"
+            },
+            {
+                "genre": "мюзикл"
+            }
+        ],
+        "ratingKinopoisk": 9.2,
+        "ratingImdb": 8.3,
+        "year": 2016,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1003587.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1003587.jpg"
+    },
+    {
+        "kinopoiskId": 1339977,
+        "imdbId": null,
+        "nameRu": "Уровень тревоги: Полночь",
+        "nameEn": null,
+        "nameOriginal": "Threat Level Midnight: The Movie",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "короткометражка"
+            }
+        ],
+        "ratingKinopoisk": 9.2,
+        "ratingImdb": 9.6,
+        "year": 2011,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1339977.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1339977.jpg"
+    },
+    {
+        "kinopoiskId": 2500772,
+        "imdbId": null,
+        "nameRu": "Жизнь человека. Последнее интервью",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.2,
+        "ratingImdb": null,
+        "year": 2020,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2500772.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2500772.jpg"
+    },
+    {
+        "kinopoiskId": 1111028,
+        "imdbId": null,
+        "nameRu": "Минифорс. Новые герои",
+        "nameEn": null,
+        "nameOriginal": "Miniforce: New Heroes Rise",
+        "countries": [
+            {
+                "country": "Корея Южная"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "детский"
+            }
+        ],
+        "ratingKinopoisk": 9.2,
+        "ratingImdb": null,
+        "year": 2016,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1111028.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1111028.jpg"
+    },
+    {
+        "kinopoiskId": 435,
+        "imdbId": "tt0120689",
+        "nameRu": "Зеленая миля",
+        "nameEn": null,
+        "nameOriginal": "The Green Mile",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "криминал"
+            },
+            {
+                "genre": "фэнтези"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": 8.6,
+        "year": 1999,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/435.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/435.jpg"
+    },
+    {
+        "kinopoiskId": 1043713,
+        "imdbId": "tt6679360",
+        "nameRu": "Он вам не Димон",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": 8.8,
+        "year": 2017,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043713.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1043713.jpg"
+    },
+    {
+        "kinopoiskId": 1101316,
+        "imdbId": null,
+        "nameRu": "Энчантималс. Дом, милый дом",
+        "nameEn": null,
+        "nameOriginal": "Enchantimals Finding Home",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "детский"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": 6.6,
+        "year": 2017,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1101316.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1101316.jpg"
+    },
+    {
+        "kinopoiskId": 1101247,
+        "imdbId": "tt6713862",
+        "nameRu": "Самадхи, часть 1: Майя, иллюзия обособленного себя",
+        "nameEn": null,
+        "nameOriginal": "Samadhi",
+        "countries": [
+            {
+                "country": "Канада"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": 8.2,
+        "year": 2017,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1101247.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1101247.jpg"
+    },
+    {
+        "kinopoiskId": 5332560,
+        "imdbId": null,
+        "nameRu": "Как я стал ребенком",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": null,
+        "year": 2023,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5332560.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5332560.jpg"
+    },
+    {
+        "kinopoiskId": 2000090,
+        "imdbId": "tt13524234",
+        "nameRu": null,
+        "nameEn": null,
+        "nameOriginal": "Folklore: The Long Pond Studio Sessions",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "музыка"
+            },
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.1,
+        "ratingImdb": 8.4,
+        "year": 2020,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2000090.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2000090.jpg"
+    },
+    {
+        "kinopoiskId": 734128,
+        "imdbId": "tt2669078",
+        "nameRu": "Время не терпит",
+        "nameEn": null,
+        "nameOriginal": "Time Framed",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": 8.9,
+        "year": 2016,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/734128.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/734128.jpg"
+    },
+    {
+        "kinopoiskId": 1346348,
+        "imdbId": "tt3001718",
+        "nameRu": "Проклятие серого слонёнка",
+        "nameEn": null,
+        "nameOriginal": "Proklyatie serogo slonyonka",
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": 8.9,
+        "year": 2011,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1346348.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1346348.jpg"
+    },
+    {
+        "kinopoiskId": 961694,
+        "imdbId": "tt5371572",
+        "nameRu": "LEGO Супергерои Marvel: Мстители. Снова в сборе",
+        "nameEn": null,
+        "nameOriginal": "Lego Marvel Super Heroes: Avengers Reassembled",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "семейный"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": 6.1,
+        "year": 2015,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/961694.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/961694.jpg"
+    },
+    {
+        "kinopoiskId": 982493,
+        "imdbId": "tt0583508",
+        "nameRu": "Друзья: Ещё один эпизод перед последним – Десять лет Друзей",
+        "nameEn": null,
+        "nameOriginal": "Friends: The One Before the Last One - Ten Years of Friends",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "комедия"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": 8.6,
+        "year": 2004,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/982493.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/982493.jpg"
+    },
+    {
+        "kinopoiskId": 1405666,
+        "imdbId": "tt10018754",
+        "nameRu": "Убежище. Истории о выживании в Альпах",
+        "nameEn": null,
+        "nameOriginal": "Le plus beau pays du monde 3",
+        "countries": [
+            {
+                "country": "Франция"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "документальный"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": 8.6,
+        "year": 2019,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1405666.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1405666.jpg"
+    },
+    {
+        "kinopoiskId": 542577,
+        "imdbId": null,
+        "nameRu": "Серафим — рожденный пламенным",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": null,
+        "year": 2006,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/542577.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/542577.jpg"
+    },
+    {
+        "kinopoiskId": 1313572,
+        "imdbId": null,
+        "nameRu": "Монте-Кристо. Мюзикл",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "мюзикл"
+            }
+        ],
+        "ratingKinopoisk": 9.0,
+        "ratingImdb": null,
+        "year": 2019,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1313572.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1313572.jpg"
+    },
+    {
+        "kinopoiskId": 5418900,
+        "imdbId": null,
+        "nameRu": "Ничего не бойся, я с тобой",
+        "nameEn": null,
+        "nameOriginal": null,
+        "countries": [
+            {
+                "country": "Россия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "мюзикл"
+            }
+        ],
+        "ratingKinopoisk": 8.9,
+        "ratingImdb": null,
+        "year": 2023,
+        "type": "FILM",
+        "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5418900.jpg",
+        "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5418900.jpg"
+    }
+]
